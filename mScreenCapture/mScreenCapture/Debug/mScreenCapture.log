@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018-11-07 10:09:07。
+     1>项目“C:\Users\wuyuliang\Documents\Visual Studio 2013\Projects\mScreenCapture\mScreenCapture\mScreenCapture.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\mScreenCapture.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt mScreenCapture.cpp
+         mScreenCapture.cpp
+     1>c:\users\wuyuliang\documents\visual studio 2013\projects\mscreencapture\mscreencapture\mscreencapture.cpp(1): warning C4627: “#include "mScreenCapture.h"”:  在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+       Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\wuyuliang\Documents\Visual Studio 2013\Projects\mScreenCapture\Debug\mScreenCapture.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\wuyuliang\Documents\Visual Studio 2013\Projects\mScreenCapture\Debug\mScreenCapture.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\wuyuliang\Documents\Visual Studio 2013\Projects\mScreenCapture\Debug\mScreenCapture.lib" /MACHINE:X86 Debug\mScreenCapture.res
+         Debug\mScreenCapture.obj
+         Debug\ScrCapManger.obj
+         Debug\stdafx.obj
+         mScreenCapture.vcxproj -> C:\Users\wuyuliang\Documents\Visual Studio 2013\Projects\mScreenCapture\Debug\mScreenCapture.exe
+     1>已完成生成项目“C:\Users\wuyuliang\Documents\Visual Studio 2013\Projects\mScreenCapture\mScreenCapture\mScreenCapture.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.38
